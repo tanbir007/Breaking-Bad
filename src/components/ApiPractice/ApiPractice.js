@@ -13,7 +13,7 @@ useEffect(() => {
     .catch(err=>console.error(err,"api problrem"))
 },[])
     return (
-        <div className="ApiPractice">
+        <div className="ApiPractice ">
             {
                 bad.slice(0,20).map(b=><Bad addHandle={addHandle} bad={b}/>)
             }

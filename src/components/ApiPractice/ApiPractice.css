@@ -3,3 +3,18 @@
     grid-template-columns: repeat(3,1fr);
     grid-gap:10px;
 }
+@media only screen and (max-width: 768px){
+    .ApiPractice{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
+@media only screen and (max-width: 568px){
+    .ApiPractice{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        margin-left: 5px;
+    }
+}
