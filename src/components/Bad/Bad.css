@@ -1,0 +1,9 @@
+.bad{
+    background-color: rgba(166, 255, 0, 0.077);
+    /* background: rgb(201,93,53);
+background: linear-gradient(180deg, #ecdeb827 0%, rgba(151,228,60,1) 23%, rgba(218,216,74,0.8685344827586207) 64%); */
+border:1px solid #000000;
+
+margin: 10px;
+border-radius: 5px;
+}

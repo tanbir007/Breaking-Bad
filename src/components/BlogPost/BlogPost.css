@@ -1,0 +1,13 @@
+.post{
+    display: grid;
+    border:2px solid black;
+   grid-gap: 20px;
+   padding:10px;
+   background-color: rgba(231, 159, 133, 0.525);
+   text-align: center;
+   border-radius: 5px;
+   margin-left: 5px;
+   margin-top: 5px;
+   
+
+}
